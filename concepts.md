@@ -58,8 +58,11 @@
                 - Router ⭕️ https://reactrouter.com/
                 - XState ⭕️ https://xstate.js.org/
                 - Testing ⭕️ https://testing-library.com/docs/react-testing-library/intro
+                - React Query ⭕️ https://react-query.tanstack.com/
             - Shopify ⭕️ https://shopify.dev/
             - TypeScript ⭕️ https://www.typescriptlang.org/docs/
+                - Zod ⭕️ https://github.com/colinhacks/zod
+                - trpc ⭕️ https://trpc.io/
             - Three.js ⭕️ https://threejs.org/
             - RxJS ⭕️ https://rxjs.dev/api
             - lodash ⭕️ https://lodash.com/docs/4.17.15
@@ -74,6 +77,10 @@
         - TypeScript ⭕️
         - Bun ⭕️ https://bun.sh/
         - Node ✅
+            - Crypto ⭕️ https://nodejs.org/api/crypto.html
+            - Multer ⭕️ 
+            - async-mutex ⭕️ https://www.npmjs.com/package/async-mutex
+            - Multithreading ⭕️ https://nodejs.org/api/worker_threads.html
             - Cors ⭕️ https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
             - Express ✅
                 - Middlewares ✅
@@ -90,6 +97,7 @@
             - Testing ⭕️
             - SSR ⭕️
         - Next.js ⭕️
+            - NextAuth ⭕️ https://next-auth.js.org/
             - SSR ⭕️
             - Testing ⭕️
             - API Routes ⭕️
@@ -109,14 +117,20 @@
             - PlanetScale ⭕️
             - Orms ⭕️
                 - Prisma ⭕️
-    - Astro ⭕️
-    - Vite ⭕️
-    - Deno ⭕️
+        - Astro ⭕️
+        - Vite ⭕️
+        - Deno ⭕️
+        - Payments
+            - stripe ⭕️ https://stripe.com/
+            - Plaid ⭕️ https://plaid.com/
     - DevOps ⭕️
+        - Railway ⭕️ https://railway.app/    
         - CI/CD ✅
         - Docker ⭕️
         - Kubernetes ⭕️
         - Terraform ⭕️
+        - OpenShift ⭕️
+        - OpenStack ⭕️
         - Jenkins ⭕️
         - Ansible ⭕️
         - Git ✅
@@ -125,6 +139,13 @@
     - WebGL ⭕️
         - PixiJS ⭕️ https://pixijs.com/
     - Cloud ✅
+        - Serverless functions ⭕️
+            - Serverless ⭕️ https://www.serverless.com/
+            - Vercel serverless functions ⭕️ https://vercel.com/docs/concepts/functions/serverless-functions
+            - Netlify serverless functions ⭕️ https://docs.netlify.com/functions/overview/
+        - Edge Workers ⭕️
+            - cloudflare web worker ⭕️ https://workers.cloudflare.com/
+            - Akamai ⭕️ https://docs.developers.optimizely.com/full-stack/docs/akamai-edgeworkers
         - AWS ✅
         - GCP ⭕️
         - Azure ⭕️
