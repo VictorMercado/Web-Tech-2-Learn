@@ -1,0 +1,129 @@
+# WEB TECH/CONCEPTS
+    - Frontend
+        - HTTP/TCP/IP ✅ https://developer.mozilla.org/en-US/docs/Web/HTTP
+            - SSL/TLS ✅ https://developer.mozilla.org/en-US/docs/Web/Security/Transport_Layer_Security
+            - DNS ✅
+            - SSH ✅
+            - WebSockets ⭕️ https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
+            - WebRTC ⭕️ https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API
+            - 
+        - Headless CMS ⭕️
+            - Strapi ⭕️ https://strapi.io/
+        - Headless Browser ⭕️
+        - HTML ✅
+            - HTML5 ✅ https://developer.mozilla.org/en-US/docs/Web/HTML
+            - HTML5 APIs ⭕️ https://developer.mozilla.org/en-US/docs/Web/API
+            - SVG/animations ⭕️ https://developer.mozilla.org/en-US/docs/Web/SVG
+            - Forms ✅
+            - Accessibility ✅
+        - CSS ✅
+            - Flexbox ✅
+            - Grid ✅
+            - Responsive Design ✅
+            - Tailwind ✅ https://tailwindui.com/
+                - Chakra UI ⭕️ https://chakra-ui.com/
+                - DaisyUI ⭕️ https://daisyui.com/
+
+            - Animations ⭕️
+        - JavaScript ✅
+            - Clousures ✅
+            - Hoisting ✅
+            - Scoping ✅
+            - Prototypes 
+            - Inheritance ✅
+            - Currying ✅
+            - Promises ✅
+            - Async/Await ✅
+            - Callbacks ✅
+            - Event Loop ✅
+            - DOM ✅
+            - Debugging ✅
+            - ES6 ✅
+            - Debounce ✅
+            - Client Side Rendering ✅
+            - React ✅
+                - Hydrogen ⭕️ https://hydrogen.shopify.dev/
+                - Custom Hooks ⭕️
+                - Hooks ✅
+                - Context ⭕️
+                - Redux ✅
+                - Router ⭕️
+                - XState ⭕️
+                - Testing ⭕️
+            - Shopify ⭕️ https://shopify.dev/
+            - TypeScript ⭕️ https://www.typescriptlang.org/docs/
+            - Three.js ⭕️ https://threejs.org/
+            - RxJS ⭕️ https://rxjs.dev/api
+            - lodash ⭕️ https://lodash.com/docs/4.17.15
+            - Unit Testing ⭕️
+            - Functional Programming ⭕️
+            - Web Workers ⭕️
+        - Web Assembly ⭕️
+    - Backend
+        - REST/CRUD API ✅
+        - TypeScript ⭕️
+        - Node ✅
+            - Express ✅
+                - Middlewares ✅
+                - Routing ✅
+                - Templating ⭕️
+                - Sessions ⭕️
+                - Authentication ⭕️
+                - Authorization ⭕️
+                - GraphQL ⭕️
+            - NPM ✅
+            - Yarn ✅
+            - Babel ✅
+            - Webpack ✅
+            - Testing ⭕️
+            - SSR ⭕️
+        - Next.js ⭕️
+            - SSR ⭕️
+            - Testing ⭕️
+            - API Routes ⭕️
+        - Gatsby ⭕️
+        - SolidJS ⭕️
+        - Database ✅
+            - SQL ✅
+                - MySQL ✅
+                - PostgreSQL ✅
+                - SQLite ⭕️
+            - NoSQL ✅
+                - DynamoDB ⭕️
+                - MongoDB ⭕️
+                    - Mongoose ⭕️
+                - Redis ⭕️
+                - Firebase ⭕️
+            - PlanetScale ⭕️
+            - Orms ⭕️
+                - Prisma ⭕️
+    - Astro ⭕️
+    - Vite ⭕️
+    - Deno ⭕️
+    - DevOps ⭕️
+        - CI/CD ✅
+        - Docker ⭕️
+        - Kubernetes ⭕️
+        - Terraform ⭕️
+        - Jenkins ⭕️
+        - Ansible ⭕️
+        - Git ✅
+        - GitHub ✅
+    - WebAssembly ⭕️
+    - WebGL ⭕️
+        - PixiJS ⭕️ https://pixijs.com/
+    - Cloud ✅
+        - AWS ✅
+        - GCP ⭕️
+        - Azure ⭕️
+        - DigitalOcean ⭕️
+        - Heroku ⭕️
+        - Netlify ⭕️
+        - Vercel ⭕️
+    - Web Performance ⭕️
+    - Web Security ⭕️
+    - Web Standards ⭕️
+        - W3C ⭕️
+
+
+
