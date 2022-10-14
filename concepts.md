@@ -77,6 +77,7 @@
         - TypeScript ⭕️
         - Bun ⭕️ https://bun.sh/
         - Node ✅
+            - Cluster ⭕️ https://nodejs.org/api/cluster.html    
             - Crypto ⭕️ https://nodejs.org/api/crypto.html
             - Multer ⭕️ 
             - async-mutex ⭕️ https://www.npmjs.com/package/async-mutex
@@ -124,6 +125,7 @@
             - stripe ⭕️ https://stripe.com/
             - Plaid ⭕️ https://plaid.com/
     - DevOps ⭕️
+        - Istio ⭕️ https://istio.io/
         - Railway ⭕️ https://railway.app/    
         - CI/CD ✅
         - Docker ⭕️
