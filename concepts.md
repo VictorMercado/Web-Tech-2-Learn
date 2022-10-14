@@ -2,11 +2,11 @@
     - Frontend
         - HTTP/TCP/IP ✅ https://developer.mozilla.org/en-US/docs/Web/HTTP
             - SSL/TLS ✅ https://developer.mozilla.org/en-US/docs/Web/Security/Transport_Layer_Security
-            - DNS ✅
-            - SSH ✅
+            - DNS ✅ https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name
+            - SSH ✅ https://developer.mozilla.org/en-US/docs/Glossary/SSH
             - WebSockets ⭕️ https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
             - WebRTC ⭕️ https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API
-            - 
+            - WireShark ⭕️ https://www.wireshark.org/
         - Headless CMS ⭕️
             - Strapi ⭕️ https://strapi.io/
         - Headless Browser ⭕️
@@ -14,55 +14,67 @@
             - HTML5 ✅ https://developer.mozilla.org/en-US/docs/Web/HTML
             - HTML5 APIs ⭕️ https://developer.mozilla.org/en-US/docs/Web/API
             - SVG/animations ⭕️ https://developer.mozilla.org/en-US/docs/Web/SVG
-            - Forms ✅
-            - Accessibility ✅
-        - CSS ✅
-            - Flexbox ✅
+            - Forms ✅ https://developer.mozilla.org/en-US/docs/Learn/Forms
+            - Accessibility ✅ https://developer.mozilla.org/en-US/docs/Learn/Accessibility
+            - Bootstrap ⭕️ https://getbootstrap.com/
+
+        - CSS ✅ https://developer.mozilla.org/en-US/docs/Web/CSS
+            - Flexbox ✅ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
             - Grid ✅
             - Responsive Design ✅
+            - BEM ⭕️ https://en.bem.info/
+            - Preprocessors ⭕️ https://developer.mozilla.org/en-US/docs/Glossary/CSS_preprocessor
+                - SASS ⭕️ https://sass-lang.com/
+                - PostCSS ⭕️ https://postcss.org/
             - Tailwind ✅ https://tailwindui.com/
                 - Chakra UI ⭕️ https://chakra-ui.com/
                 - DaisyUI ⭕️ https://daisyui.com/
+            - Theme UI ⭕️ https://theme-ui.com/
+            - Animations ⭕️ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations
 
-            - Animations ⭕️
-        - JavaScript ✅
-            - Clousures ✅
-            - Hoisting ✅
-            - Scoping ✅
-            - Prototypes 
-            - Inheritance ✅
-            - Currying ✅
-            - Promises ✅
-            - Async/Await ✅
-            - Callbacks ✅
-            - Event Loop ✅
-            - DOM ✅
-            - Debugging ✅
-            - ES6 ✅
-            - Debounce ✅
+        - JavaScript ✅ https://developer.mozilla.org/en-US/docs/Web/JavaScript
+            - Cross-Site Scripting (XSS) ⭕️ https://developer.mozilla.org/en-US/docs/Glossary/Cross-site_scripting
+            - Clousures ✅ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+            - Hoisting ✅ https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
+            - Scoping ✅ https://developer.mozilla.org/en-US/docs/Glossary/Scope
+            - Prototypes ⭕️ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes
+            - Inheritance ✅ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
+            - Currying ✅ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#currying
+            - Promises ✅ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+            - Async/Await ✅ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await
+            - Callbacks ✅ https://developer.mozilla.org/en-US/docs/Glossary/Callback_function
+            - Event Loop ✅ https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop
+            - DOM ✅ https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+            - Debugging ✅ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong
+            - ES6 ✅ https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_2015_support_in_Mozilla
+            - Debounce ✅ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/debounce
             - Client Side Rendering ✅
-            - React ✅
+            - React ✅ https://reactjs.org/ | https://beta.reactjs.org/
                 - Hydrogen ⭕️ https://hydrogen.shopify.dev/
-                - Custom Hooks ⭕️
-                - Hooks ✅
-                - Context ⭕️
-                - Redux ✅
-                - Router ⭕️
-                - XState ⭕️
-                - Testing ⭕️
+                - Custom Hooks ⭕️ https://reactjs.org/docs/hooks-custom.html
+                - Hooks ✅ https://reactjs.org/docs/hooks-intro.html
+                - Context ⭕️ https://reactjs.org/docs/context.html
+                - Redux ✅ https://redux.js.org/
+                - Router ⭕️ https://reactrouter.com/
+                - XState ⭕️ https://xstate.js.org/
+                - Testing ⭕️ https://testing-library.com/docs/react-testing-library/intro
             - Shopify ⭕️ https://shopify.dev/
             - TypeScript ⭕️ https://www.typescriptlang.org/docs/
             - Three.js ⭕️ https://threejs.org/
             - RxJS ⭕️ https://rxjs.dev/api
             - lodash ⭕️ https://lodash.com/docs/4.17.15
-            - Unit Testing ⭕️
-            - Functional Programming ⭕️
-            - Web Workers ⭕️
-        - Web Assembly ⭕️
+            - Unit Testing ⭕️ https://jestjs.io/
+            - Functional Programming ⭕️ https://developer.mozilla.org/en-US/docs/Web/JavaScript/
+            - Web Workers ⭕️ https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API
+        - Web Assembly ⭕️ https://developer.mozilla.org/en-US/docs/WebAssembly
+            - Rust ⭕️ https://www.rust-lang.org/ 
+                - Yew ⭕️ https://yew.rs/
     - Backend
         - REST/CRUD API ✅
         - TypeScript ⭕️
+        - Bun ⭕️ https://bun.sh/
         - Node ✅
+            - Cors ⭕️ https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
             - Express ✅
                 - Middlewares ✅
                 - Routing ✅
